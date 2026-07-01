@@ -1,4 +1,4 @@
-# 📊 Top 20 Excel Formulas Every Beginner Should Know
+# Top 20 Excel Formulas Every Beginner Should Know
 
 This repository contains the **Top 20 Microsoft Excel formulas** with syntax, explanations, and examples. These formulas are useful for data analysis, reporting, finance, and everyday spreadsheet tasks.
 
